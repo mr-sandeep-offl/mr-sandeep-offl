@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sandeep%20V&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Java%20Developer%20%7C%20Embedded%20Systems%20%26%20IoT&descAlignY=62&descSize=16" alt="Sandeep Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sandeep%20V&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Java%20Developer%20%7C%20Embedded%20Systems%20and%20IoT&descAlignY=62&descSize=16" alt="Sandeep Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergrad+%7C+Java+Developer;Building+IoT+%26+Embedded+Systems;Exploring+Software+Development;Open+to+Software+%2F+Java+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergrad+%7C+Java+Developer;Building+IoT+and+Embedded+Systems;Exploring+Software+Development;Open+to+Software+%2F+Java+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
 </p>
 
 # Hey There! 👋
