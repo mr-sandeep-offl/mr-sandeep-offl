@@ -13,7 +13,7 @@ I build real-time, hardware-integrated systems and scalable Java applications, a
 Check out my profiles: [LinkedIn](https://www.linkedin.com/in/sandeep-v) | [GitHub](https://github.com/) | [Email](mailto:ssandeep79154@gmail.com)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=dark" />
 </p>
 
 <p>
