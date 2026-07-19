@@ -1,195 +1,474 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sandeep%20V&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Java%20Developer%20%7C%20Embedded%20Systems%20and%20IoT&descAlignY=62&descSize=16" alt="Sandeep Banner" width="100%" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergrad+%7C+Java+Developer;Building+IoT+and+Embedded+Systems;Exploring+Software+Development;Open+to+Software+%2F+Java+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
-</p>
+<!--                🌸 SANDEEP V — ANIME DEVELOPER PROFILE 🌸             -->
 
-# Hey There! 👋
-**I'm Sandeep V** — Java developer, embedded systems & IoT enthusiast, and final-year ECE undergrad.
-I build real-time, hardware-integrated systems and scalable Java applications, and I'm actively growing my software development and DSA skills.
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-Check out my profiles: [LinkedIn](https://www.linkedin.com/in/sandeep-v) | [GitHub](https://github.com/) | [Email](mailto:ssandeep79154@gmail.com)
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=dark" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:24104F,70:6C2BD9,100:FF69B4&text=Sandeep%20V&fontColor=FFFFFF&fontSize=50&fontAlignY=35&animation=twinkling&desc=コードで未来を創る%20%E2%80%A2%20Creating%20the%20Future%20with%20Code&descSize=17&descAlignY=58&section=header"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Embedded%20Systems%20%7C%20IoT-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&random=false&width=850&height=65&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergraduate+%7C+Java+Developer+%E2%98%95;Building+Embedded+Systems+%26+IoT+Solutions+%F0%9F%94%A7;Turning+Ideas+into+Real-World+Technology+%E2%9A%A1;Training+My+Developer+Arc+Every+Day+%F0%9F%8C%B8" alt="Animated introduction"/>
 
-<p>
-  <img src="https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C-BF91F3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPS%2FGSM%20Systems-38BDAE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-38BDAE?style=for-the-badge&logoColor=white" />
-</p>
+<br/>
 
-<details>
-  <summary>GitHub Stats ⚡</summary><br/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-C084FC?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/ROLE-JAVA_DEVELOPER-FF69B4?style=for-the-badge&labelColor=161B22&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU-22D3EE?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=white"/>
 
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=181717&logo=github&label=Followers)
+<br/><br/>
 
-</details>
+> **「小さな一歩でも、前に進めば未来は変わる。」**
+> *Even a small step forward can change the future.*
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌸 About This Developer
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### こんにちは — I'm Sandeep V 👋
+
+I'm a final-year **Electronics and Communication Engineering undergraduate**, Java developer, and embedded systems enthusiast from Tamil Nadu, India.
+
+My work connects two worlds:
+
+* ☕ Scalable software development with Java
+* 🔧 Hardware-integrated embedded systems
+* 🌐 Internet of Things and real-time communication
+* 🧠 Data Structures, Algorithms, and problem solving
+* 🚀 Reliable solutions for real-world challenges
+
+I enjoy transforming ideas into practical systems—from sensors and microcontrollers to Java applications and web-based platforms.
+
+> Every project is another episode in my developer journey.
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+```text
+╭──────────────────────────╮
+│   DEVELOPER PROFILE      │
+├──────────────────────────┤
+│ Name     : Sandeep V     │
+│ Class    : Java Dev      │
+│ Guild    : ECE           │
+│ Region   : Tamil Nadu    │
+│ Level    : Growing ↑     │
+│ Status   : Open to Work  │
+╰──────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-6C2BD9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Send_A_Message-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
+
+</div>
+
+---
+
+## ⚔️ My Developer Character
 
 ```java
-public class Sandeep {
-    String name        = "Sandeep V";
-    String location    = "Erode, Tamil Nadu, India";
-    String degree      = "B.E. Electronics & Communication Engineering";
-    String college     = "VSB Engineering College, Karur";
-    double cgpa        = 7.52;
+public class SandeepV {
 
-    String[] stack = {
-        "Java", "Embedded C", "MySQL",
-        "GPS Module Integration", "GSM-based Alert Systems",
-        "Accelerometer Sensor Interfacing", "Microcontroller Programming"
+    private final String name = "Sandeep V";
+    private final String location = "Erode, Tamil Nadu, India";
+    private final String degree =
+            "B.E. Electronics and Communication Engineering";
+
+    private final String[] abilities = {
+        "Java Development",
+        "Object-Oriented Programming",
+        "Embedded C",
+        "MySQL",
+        "Microcontroller Programming",
+        "GPS Module Integration",
+        "GSM Alert Systems",
+        "Accelerometer Interfacing",
+        "Git and GitHub"
     };
 
-    String[] currentlyLearning = {
+    private final String[] currentTrainingArc = {
+        "Data Structures and Algorithms",
+        "REST API Development",
+        "System Design Fundamentals",
         "SAP S/4HANA Fundamentals",
-        "Data Structures & Algorithms",
-        "System Design basics",
-        "REST APIs"
+        "Application Deployment"
     };
 
-    String motto() {
-        return "Build. Break. Learn. Repeat. 🚀";
+    public String currentMission() {
+        return "Build reliable systems that connect hardware and software.";
+    }
+
+    public String developerMotto() {
+        return "Build. Break. Learn. Evolve. Repeat. 🚀";
     }
 
     public static void main(String[] args) {
-        Sandeep me = new Sandeep();
-        System.out.println(me.motto());
+        SandeepV developer = new SandeepV();
+
+        while (true) {
+            System.out.println(developer.developerMotto());
+        }
     }
 }
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🌀 Skill Constellation
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| 🚌 Tamil Niral — Live Bus Tracking & Booking System | Java · GPS Integration · Real-Time Systems · Web-Based Interface | Full-stack web app for real-time bus tracking, online ticket booking, and live seat availability; integrated GPS-based live location updates with end-to-end testing |
-| 🚨 Smart Accident Detection & Alert System | Embedded C · GPS Module · GSM Module · Accelerometer Sensor · Microcontroller | IoT-based accident detection using threshold-based impact detection to reduce false alerts; auto-sends emergency SMS alerts with GPS location via GSM |
+### Languages and Databases
+
+<img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Languages and databases"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" alt="Development tools"/>
+
+### Currently Unlocking
+
+<img src="https://img.shields.io/badge/Data_Structures-Training_Arc-C084FC?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/REST_APIs-In_Progress-FF69B4?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/System_Design-Learning-22D3EE?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/SAP_S%2F4HANA-Exploring-F59E0B?style=for-the-badge&labelColor=161B22"/>
 
 </div>
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🗺️ Developer Journey
 
-<div align="center">
-
-| 🏆 | Achievement | Issuer |
-|----|-------------|--------|
-| ☕ | Java | GUVI \| HCL (Dec 2024) |
-| ☕ | Programming using Java | Infosys Springboard (Jun 2025) |
-| 🏢 | SAP S/4HANA Fundamentals | Currently Pursuing |
-| 🥈 | Ranked in Top 1000 Teams — Niral Thiruvizha 2.0 | National-level government innovation competition |
-| 📄 | Publication: "Secure and Decentralized Identity Verification System" | Accepted for publication in an IEEE Journal, 2026 |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.E. Electronics & Communication Engineering | VSB Engineering College, Karur | 2023 – Present | CGPA: 7.52 |
-| Higher Secondary Certificate (HSC) | Vivekanandha Vidyalaya HSS, Muthur | 2021 – 2023 | 67.8% |
-| SSLC | Vivekanandha Vidyalaya HSS, Muthur | 2020 – 2021 | PASS |
-
-</div>
-
----
-
-## 💼 Internship
-
-**Infosys Springboard – Java Foundation Virtual Internship**
-Completed a Java Foundation Virtual Internship, gaining knowledge of Core Java, OOP concepts, and basic programming principles.
-
----
-
-## 📚 Currently Learning
-
-```
-🧱 DSA                →  Arrays, Linked Lists, Trees, Graphs, Dynamic Programming
-🎯 System Design      →  Basics of scalable architecture
-🔗 REST APIs          →  Building and consuming APIs
-🏢 SAP S/4HANA        →  Enterprise systems fundamentals
-🚀 Deployment         →  Git Actions, hosting basics
+```text
+Episode 01  ━━━━━━━━  Electronics and Communication Engineering
+                         ↓
+Episode 02  ━━━━━━━━  Embedded C and Microcontroller Programming
+                         ↓
+Episode 03  ━━━━━━━━  GPS, GSM and Sensor Integration
+                         ↓
+Episode 04  ━━━━━━━━  Core Java and Object-Oriented Programming
+                         ↓
+Episode 05  ━━━━━━━━  Real-Time Projects and Innovation Competitions
+                         ↓
+Current Arc ━━━━━━━━  DSA • REST APIs • System Design • Software Roles
 ```
 
 ---
 
-> **Engineering reliable systems — from embedded hardware to scalable software.**
+## 🚀 Featured Missions
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!--
-=====================================================================
-SETUP NOTES (delete this comment block once done — GitHub won't render it)
-=====================================================================
+### 🚌 Tamil Niral
 
-1) REPO NAME — this README only renders as your profile page if it lives
-   in a repo named EXACTLY your GitHub username (e.g. github.com/sandeepv/sandeepv).
+**Live Bus Tracking and Booking System**
 
-2) REPLACE PLACEHOLDERS — swap YOUR_GITHUB_USERNAME (appears in the Stats
-   section) and the GitHub/Portfolio links with your real URLs.
+A full-stack platform designed to improve public transportation through real-time bus location tracking and digital booking.
 
-3) SNAKE ANIMATION — add `.github/workflows/snake.yml` in that same repo:
+#### Key Features
 
-   name: generate snake
-   on:
-     schedule:
-       - cron: "0 */6 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       permissions:
-         contents: write
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: YOUR_GITHUB_USERNAME
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+* GPS-based live bus tracking
+* Online ticket booking
+* Real-time seat availability
+* User-friendly web interface
+* End-to-end functional testing
+* Hardware and software integration
 
-4) PORTFOLIO LINK — add a real portfolio URL once you have one hosted
-   (GitHub Pages, Vercel, Netlify, etc.).
+#### Technology
 
-5) SKILLS ICONS — the skillicons.dev row can be extended any time you pick
-   up a new language/tool: just add its slug to the `i=` query param.
+`Java` `GPS Integration` `Web Development` `Real-Time Systems`
 
-=====================================================================
--->
+</td>
+<td width="50%" valign="top">
+
+### 🚨 Smart Accident Detection
+
+**Automatic Emergency Alert System**
+
+An IoT-based safety system that detects vehicle accidents and automatically sends emergency alerts with location details.
+
+#### Key Features
+
+* Accelerometer-based impact detection
+* Threshold logic to reduce false alerts
+* Automatic emergency SMS alerts
+* GPS location collection
+* GSM-based communication
+* Microcontroller-controlled workflow
+
+#### Technology
+
+`Embedded C` `GPS` `GSM` `Accelerometer` `Microcontroller`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **Mission objective:** Engineering reliable systems from embedded hardware to scalable software.
+
+</div>
+
+---
+
+## 🏆 Achievements Unlocked
+
+<div align="center">
+
+| Rank | Achievement                                           | Organization                                |
+| :--: | ----------------------------------------------------- | ------------------------------------------- |
+|   ☕  | Java Certification                                    | GUVI and HCL — December 2024                |
+|   ☕  | Programming Using Java                                | Infosys Springboard — June 2025             |
+|  🏢  | SAP S/4HANA Fundamentals                              | Currently Pursuing                          |
+|  🥈  | Ranked Among the Top 1,000 Teams                      | Niral Thiruvizha 2.0                        |
+|  📄  | Secure and Decentralized Identity Verification System | Accepted for IEEE journal publication, 2026 |
+
+</div>
+
+---
+
+## 💼 Internship Arc
+
+### Infosys Springboard — Java Foundation Virtual Internship
+
+Completed the Java Foundation Virtual Internship with practical exposure to:
+
+* Core Java programming
+* Object-oriented programming principles
+* Classes, objects, inheritance, and polymorphism
+* Exception handling
+* Fundamental problem-solving techniques
+* Clean and structured program development
+
+---
+
+## 🎓 Education Timeline
+
+<div align="center">
+
+| Quest                                             | Institution                        |   Timeline   |   Result   |
+| ------------------------------------------------- | ---------------------------------- | :----------: | :--------: |
+| 🎓 B.E. Electronics and Communication Engineering | VSB Engineering College, Karur     | 2023–Present | CGPA: 7.52 |
+| 📘 Higher Secondary Certificate                   | Vivekanandha Vidyalaya HSS, Muthur |   2021–2023  |    67.8%   |
+| 📗 Secondary School Leaving Certificate           | Vivekanandha Vidyalaya HSS, Muthur |   2020–2021  |    Pass    |
+
+</div>
+
+---
+
+## 📚 Current Training Arc
+
+```yaml
+training_status:
+  data_structures:
+    topics:
+      - Arrays
+      - Linked Lists
+      - Stacks
+      - Queues
+      - Trees
+      - Graphs
+      - Dynamic Programming
+    status: "Leveling up"
+
+  backend_development:
+    topics:
+      - REST APIs
+      - Java application architecture
+      - Database integration
+    status: "In progress"
+
+  system_design:
+    topics:
+      - Scalability basics
+      - Client-server architecture
+      - Database fundamentals
+    status: "Learning"
+
+  enterprise_technology:
+    topics:
+      - SAP S/4HANA Fundamentals
+    status: "Exploring"
+
+  deployment:
+    topics:
+      - GitHub Actions
+      - Hosting fundamentals
+      - CI/CD basics
+    status: "Next mission"
+```
+
+---
+
+## 📊 Developer Power Level
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF69B4&text_color=C9D1D9&ring_color=22D3EE" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=C084FC&fire=FF69B4&currStreakLabel=22D3EE&sideLabels=C084FC&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C2BD9&label=PROFILE+VISITORS" alt="Profile visitors"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=FF69B4&labelColor=161B22&logo=github&label=Followers" alt="GitHub followers"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=22D3EE&labelColor=161B22&logo=github&label=Total%20Stars" alt="GitHub stars"/>
+
+</div>
+
+---
+
+## 🎴 Contribution Story
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C084FC&line=FF69B4&point=22D3EE&area=true&hide_border=true&custom_title=Sandeep's%20Contribution%20Journey" width="98%" alt="Contribution activity graph"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
+## 🌸 Random Developer Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+<br/>
+
+```text
+A developer does not become stronger by avoiding bugs.
+
+A developer becomes stronger by debugging,
+understanding, rebuilding, and trying again.
+```
+
+### 「失敗は終わりではない。成長の始まりだ。」
+
+*Failure is not the end. It is the beginning of growth.*
+
+</div>
+
+---
+
+## 🤝 Join My Developer Journey
+
+<div align="center">
+
+I'm interested in opportunities involving:
+
+`Java Development` • `Software Engineering` • `Embedded Systems`
+`Internet of Things` • `Backend Development` • `Graduate Roles`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6C2BD9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<br/><br/>
+
+### 🌸 Thanks for visiting my profile 🌸
+
+**Follow the repository to watch the next episode of my developer journey.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,35:24104F,70:6C2BD9,100:FF69B4&section=footer"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+                           PROFILE SETUP GUIDE
+═══════════════════════════════════════════════════════════════════════════
+
+1. Replace every occurrence of:
+
+   YOUR_GITHUB_USERNAME
+
+   with your real GitHub username.
+
+2. Your profile repository must have exactly the same name as your
+   GitHub username.
+
+   Example:
+
+   Username: sandeepv
+   Repository: github.com/sandeepv/sandeepv
+
+3. Add the contribution snake workflow at:
+
+   .github/workflows/snake.yml
+
+4. Use this workflow:
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish contribution snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+5. Run the workflow manually once:
+
+   Repository → Actions → Generate Contribution Snake → Run workflow
+
+6. Some external statistics services can occasionally experience downtime.
+   This does not mean your README code is broken.
+
+═══════════════════════════════════════════════════════════════════════════ -->
