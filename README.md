@@ -1,333 +1,109 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sandeep%20V&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Java%20Developer%20%7C%20Embedded%20Systems%20and%20IoT&descAlignY=62&descSize=16" alt="Sandeep Banner" width="100%" />
+</p>
 
-<!--              🤖 SANDEEP V — AI & MACHINE LEARNING PROFILE            -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergrad+%7C+Java+Developer;Building+IoT+and+Embedded+Systems;Exploring+Software+Development;Open+to+Software+%2F+Java+Roles+%F0%9F%9A%80" alt="Typing SVG" width="70%" />
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+# Hey There! 👋
+**I'm Sandeep V** — Java developer, embedded systems & IoT enthusiast, and final-year ECE undergrad.
+I build real-time, hardware-integrated systems and scalable Java applications, and I'm actively growing my software development and DSA skills.
 
-<div align="center">
+Check out my profiles: [LinkedIn](https://www.linkedin.com/in/sandeep-v) | [GitHub](https://github.com/) | [Email](mailto:ssandeep79154@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,70:0F766E,100:22D3EE&text=Sandeep%20V&fontColor=FFFFFF&fontSize=50&fontAlignY=35&animation=twinkling&desc=Java%20Developer%20%7C%20Embedded%20Systems%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58&section=header"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=dark" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=900&height=65&lines=Hi%2C+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergraduate+%7C+Java+Developer+%E2%98%95;Building+Embedded+and+IoT+Systems+%F0%9F%94%A7;Exploring+AI+and+Machine+Learning+%F0%9F%A4%96;Transforming+Data+into+Intelligent+Solutions+%F0%9F%93%8A" alt="Typing animation"/>
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Embedded%20Systems%20%7C%20IoT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/OOP-70A5FD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-BF91F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPS%2FGSM%20Systems-38BDAE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-38BDAE?style=for-the-badge&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/ROLE-JAVA_DEVELOPER-22D3EE?style=for-the-badge&labelColor=0F172A&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-AI_%26_MACHINE_LEARNING-A855F7?style=for-the-badge&labelColor=0F172A&logo=probot&logoColor=white"/>
+<details>
+  <summary>GitHub Stats ⚡</summary><br/>
 
-<br/><br/>
+![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=181717&logo=github&label=Followers)
 
-> **Building intelligent systems where software, hardware, and data work together.**
+</details>
 
-</div>
-
----
-
-## 🤖 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Hi, I'm Sandeep V 👋
-
-I'm a final-year **Electronics and Communication Engineering undergraduate**, Java developer, and embedded systems enthusiast from Tamil Nadu, India.
-
-I enjoy building solutions that combine:
-
-* ☕ Java and object-oriented programming
-* 🔧 Embedded systems and microcontrollers
-* 🌐 Internet of Things and real-time communication
-* 📊 Data analysis and intelligent decision-making
-* 🤖 Artificial Intelligence and Machine Learning
-* 🧠 Data Structures, Algorithms, and problem solving
-
-My long-term goal is to create reliable systems that connect hardware, software, and intelligent automation.
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-```text
-╭──────────────────────────────╮
-│      DEVELOPER PROFILE       │
-├──────────────────────────────┤
-│ Name      : Sandeep V        │
-│ Role      : Java Developer   │
-│ Domain    : Embedded + IoT   │
-│ Exploring : AI and ML        │
-│ Location  : Tamil Nadu       │
-│ Status    : Open to Work     │
-╰──────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
-
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
-## 🧠 Developer Intelligence Profile
+## 👨‍💻 About Me
 
 ```java
-public class SandeepV {
+public class Sandeep {
+    String name        = "Sandeep V";
+    String location    = "Erode, Tamil Nadu, India";
+    String degree      = "B.E. Electronics & Communication Engineering";
+    String college     = "VSB Engineering College, Karur";
+    double cgpa        = 7.52;
 
-    private final String name = "Sandeep V";
-    private final String location = "Erode, Tamil Nadu, India";
-    private final String degree =
-            "B.E. Electronics and Communication Engineering";
-
-    private final String[] coreSkills = {
-        "Java",
-        "Object-Oriented Programming",
-        "Embedded C",
-        "MySQL",
-        "Microcontroller Programming",
-        "GPS Module Integration",
-        "GSM Alert Systems",
-        "Sensor Interfacing",
-        "Git and GitHub"
+    String[] stack = {
+        "Java", "Embedded C", "MySQL",
+        "GPS Module Integration", "GSM-based Alert Systems",
+        "Accelerometer Sensor Interfacing", "Microcontroller Programming"
     };
 
-    private final String[] exploring = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Structures and Algorithms",
-        "REST API Development",
-        "System Design Fundamentals",
-        "SAP S/4HANA"
+    String[] currentlyLearning = {
+        "SAP S/4HANA Fundamentals",
+        "Data Structures & Algorithms",
+        "System Design basics",
+        "REST APIs"
     };
 
-    public String mission() {
-        return "Build intelligent systems that solve real-world problems.";
-    }
-
-    public String mindset() {
-        return "Learn from data. Improve through iteration. Build with purpose.";
+    String motto() {
+        return "Build. Break. Learn. Repeat. 🚀";
     }
 
     public static void main(String[] args) {
-        SandeepV developer = new SandeepV();
-
-        System.out.println(developer.mission());
-        System.out.println(developer.mindset());
+        Sandeep me = new Sandeep();
+        System.out.println(me.motto());
     }
 }
 ```
 
 ---
 
-## ⚙️ Technology Stack
-
-<div align="center">
-
-### Programming and Databases
-
-<img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Programming languages and databases"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" alt="Development tools"/>
-
-### AI and Machine Learning Journey
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-A855F7?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Learning-22D3EE?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Data_Analysis-Beginner-14B8A6?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Problem_Solving-Improving-F59E0B?style=for-the-badge&labelColor=0F172A"/>
-
-</div>
-
----
-
-## 🧩 Knowledge Architecture
-
-```text
-Hardware Layer
-     │
-     ├── Microcontrollers
-     ├── GPS Modules
-     ├── GSM Modules
-     └── Accelerometer Sensors
-     │
-     ▼
-Embedded Systems Layer
-     │
-     ├── Embedded C
-     ├── Sensor Interfacing
-     └── Real-Time Communication
-     │
-     ▼
-Software Layer
-     │
-     ├── Java
-     ├── Object-Oriented Programming
-     ├── MySQL
-     └── REST APIs
-     │
-     ▼
-Intelligence Layer
-     │
-     ├── Artificial Intelligence
-     ├── Machine Learning
-     ├── Data Analysis
-     └── Intelligent Automation
-```
-
----
-
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚌 Tamil Niral
-
-**Live Bus Tracking and Booking System**
-
-A full-stack transportation platform designed to improve the public travel experience using real-time tracking and digital booking.
-
-#### Key Features
-
-* GPS-based live bus location tracking
-* Online ticket booking
-* Live seat availability
-* User-friendly web interface
-* End-to-end functional testing
-* Hardware and software integration
-
-#### Technology
-
-`Java` `GPS Integration` `Web Development` `Real-Time Systems`
-
-#### Future AI Scope
-
-* Passenger demand prediction
-* Intelligent route recommendation
-* Travel-time forecasting
-* Dynamic seat allocation
-
-</td>
-<td width="50%" valign="top">
-
-### 🚨 Smart Accident Detection
-
-**Automatic Emergency Alert System**
-
-An IoT-based safety system that detects vehicle accidents and automatically sends emergency alerts with location information.
-
-#### Key Features
-
-* Accelerometer-based impact detection
-* Threshold logic to reduce false alerts
-* Automatic emergency SMS alerts
-* GPS location collection
-* GSM-based communication
-* Microcontroller-controlled workflow
-
-#### Technology
-
-`Embedded C` `GPS` `GSM` `Accelerometer` `Microcontroller`
-
-#### Future AI Scope
-
-* Machine-learning-based accident detection
-* Driver behavior analysis
-* Risk-level classification
-* False-alert prediction
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 AI and Machine Learning Interests
-
 <div align="center">
 
-| Area                       | Current Focus                                          |
-| -------------------------- | ------------------------------------------------------ |
-| 🤖 Artificial Intelligence | Understanding intelligent systems and automation       |
-| 📊 Machine Learning        | Learning supervised and unsupervised learning concepts |
-| 🧠 Neural Networks         | Exploring the fundamentals of deep learning            |
-| 📈 Data Analysis           | Learning how data supports better decisions            |
-| 🌐 AI with IoT             | Connecting sensor data with intelligent models         |
-| 🚗 Predictive Systems      | Exploring accident and transportation predictions      |
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| 🚌 Tamil Niral — Live Bus Tracking & Booking System | Java · GPS Integration · Real-Time Systems · Web-Based Interface | Full-stack web app for real-time bus tracking, online ticket booking, and live seat availability; integrated GPS-based live location updates with end-to-end testing |
+| 🚨 Smart Accident Detection & Alert System | Embedded C · GPS Module · GSM Module · Accelerometer Sensor · Microcontroller | IoT-based accident detection using threshold-based impact detection to reduce false alerts; auto-sends emergency SMS alerts with GPS location via GSM |
 
 </div>
 
 ---
 
-## 🛠️ Intelligent System Pipeline
-
-```text
-┌──────────────┐
-│ Sensor Input │
-└──────┬───────┘
-       │
-       ▼
-┌─────────────────┐
-│ Data Collection │
-└──────┬──────────┘
-       │
-       ▼
-┌─────────────────┐
-│ Data Processing │
-└──────┬──────────┘
-       │
-       ▼
-┌──────────────────────┐
-│ Machine Learning     │
-│ Model / Decision     │
-└──────┬───────────────┘
-       │
-       ▼
-┌─────────────────┐
-│ Smart Response  │
-└─────────────────┘
-```
-
----
-
-## 🏆 Certifications and Achievements
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-| Achievement                                              | Issuer                                      |
-| -------------------------------------------------------- | ------------------------------------------- |
-| ☕ Java Certification                                     | GUVI and HCL — December 2024                |
-| ☕ Programming Using Java                                 | Infosys Springboard — June 2025             |
-| 🏢 SAP S/4HANA Fundamentals                              | Currently Pursuing                          |
-| 🥈 Ranked Among the Top 1,000 Teams                      | Niral Thiruvizha 2.0                        |
-| 📄 Secure and Decentralized Identity Verification System | Accepted for IEEE journal publication, 2026 |
+| 🏆 | Achievement | Issuer |
+|----|-------------|--------|
+| ☕ | Java | GUVI \| HCL (Dec 2024) |
+| ☕ | Programming using Java | Infosys Springboard (Jun 2025) |
+| 🏢 | SAP S/4HANA Fundamentals | Currently Pursuing |
+| 🥈 | Ranked in Top 1000 Teams — Niral Thiruvizha 2.0 | National-level government innovation competition |
+| 📄 | Publication: "Secure and Decentralized Identity Verification System" | Accepted for publication in an IEEE Journal, 2026 |
 
 </div>
-
----
-
-## 💼 Internship Experience
-
-### Infosys Springboard — Java Foundation Virtual Internship
-
-Completed a Java Foundation Virtual Internship with practical exposure to:
-
-* Core Java programming
-* Object-oriented programming
-* Classes and objects
-* Inheritance and polymorphism
-* Exception handling
-* Basic programming principles
-* Structured problem-solving techniques
 
 ---
 
@@ -335,216 +111,85 @@ Completed a Java Foundation Virtual Internship with practical exposure to:
 
 <div align="center">
 
-| Degree                                         | Institution                        |     Year     |    Score   |
-| ---------------------------------------------- | ---------------------------------- | :----------: | :--------: |
-| B.E. Electronics and Communication Engineering | VSB Engineering College, Karur     | 2023–Present | CGPA: 7.52 |
-| Higher Secondary Certificate                   | Vivekanandha Vidyalaya HSS, Muthur |   2021–2023  |    67.8%   |
-| Secondary School Leaving Certificate           | Vivekanandha Vidyalaya HSS, Muthur |   2020–2021  |    Pass    |
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| B.E. Electronics & Communication Engineering | VSB Engineering College, Karur | 2023 – Present | CGPA: 7.52 |
+| Higher Secondary Certificate (HSC) | Vivekanandha Vidyalaya HSS, Muthur | 2021 – 2023 | 67.8% |
+| SSLC | Vivekanandha Vidyalaya HSS, Muthur | 2020 – 2021 | PASS |
 
 </div>
 
 ---
 
-## 📚 Current Learning Model
+## 💼 Internship
 
-```yaml
-current_learning:
+**Infosys Springboard – Java Foundation Virtual Internship**
+Completed a Java Foundation Virtual Internship, gaining knowledge of Core Java, OOP concepts, and basic programming principles.
 
-  artificial_intelligence:
-    topics:
-      - Intelligent systems
-      - Search and decision-making
-      - AI applications
-    status: "Exploring"
+---
 
-  machine_learning:
-    topics:
-      - Supervised learning
-      - Unsupervised learning
-      - Model evaluation
-      - Feature engineering
-    status: "Getting started"
+## 📚 Currently Learning
 
-  data_structures:
-    topics:
-      - Arrays
-      - Linked Lists
-      - Stacks
-      - Queues
-      - Trees
-      - Graphs
-      - Dynamic Programming
-    status: "Improving"
-
-  backend_development:
-    topics:
-      - Java architecture
-      - REST APIs
-      - Database integration
-    status: "In progress"
-
-  system_design:
-    topics:
-      - Scalability basics
-      - Client-server architecture
-      - Database fundamentals
-    status: "Learning"
-
-  deployment:
-    topics:
-      - GitHub Actions
-      - Hosting fundamentals
-      - CI/CD basics
-    status: "Next objective"
+```
+🧱 DSA                →  Arrays, Linked Lists, Trees, Graphs, Dynamic Programming
+🎯 System Design      →  Basics of scalable architecture
+🔗 REST APIs          →  Building and consuming APIs
+🏢 SAP S/4HANA        →  Enterprise systems fundamentals
+🚀 Deployment         →  Git Actions, hosting basics
 ```
 
 ---
 
-## 📊 GitHub Analytics
+> **Engineering reliable systems — from embedded hardware to scalable software.**
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A855F7&text_color=E2E8F0&ring_color=14B8A6" alt="GitHub statistics"/>
+<!--
+=====================================================================
+SETUP NOTES (delete this comment block once done — GitHub won't render it)
+=====================================================================
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=020617&ring=22D3EE&fire=A855F7&currStreakLabel=14B8A6&sideLabels=22D3EE&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+1) REPO NAME — this README only renders as your profile page if it lives
+   in a repo named EXACTLY your GitHub username (e.g. github.com/sandeepv/sandeepv).
 
-<br/>
+2) REPLACE PLACEHOLDERS — swap YOUR_GITHUB_USERNAME (appears in the Stats
+   section) and the GitHub/Portfolio links with your real URLs.
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0" alt="Most used languages"/>
+3) SNAKE ANIMATION — add `.github/workflows/snake.yml` in that same repo:
 
-<br/><br/>
+   name: generate snake
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: [ main ]
+   jobs:
+     generate:
+       permissions:
+         contents: write
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: YOUR_GITHUB_USERNAME
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+4) PORTFOLIO LINK — add a real portfolio URL once you have one hosted
+   (GitHub Pages, Vercel, Netlify, etc.).
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=A855F7&labelColor=0F172A&logo=github&label=Followers" alt="GitHub followers"/>
+5) SKILLS ICONS — the skillicons.dev row can be extended any time you pick
+   up a new language/tool: just add its slug to the `i=` query param.
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=14B8A6&labelColor=0F172A&logo=github&label=Total%20Stars" alt="GitHub stars"/>
-
-</div>
-
----
-
-## 📈 Contribution Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=22D3EE&line=A855F7&point=14B8A6&area=true&hide_border=true&custom_title=Sandeep's%20Development%20Activity" width="98%" alt="Contribution activity graph"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
-
-<br/>
-
-```text
-Data creates insight.
-Algorithms create intelligence.
-Engineering transforms intelligence into impact.
-```
-
-### Build systems that learn, adapt, and solve meaningful problems.
-
-</div>
-
----
-
-## 🎯 Career Objectives
-
-<div align="center">
-
-I'm actively interested in opportunities involving:
-
-`Java Development` • `Software Engineering` • `Embedded Systems`
-`Internet of Things` • `Artificial Intelligence` • `Machine Learning`
-`Backend Development` • `Graduate Software Roles`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-<br/><br/>
-
-### 🤖 Thanks for visiting my profile
-
-**Building today. Learning continuously. Creating intelligent systems for tomorrow.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,35:0F172A,70:0F766E,100:22D3EE&section=footer"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-                           PROFILE SETUP GUIDE
-═══════════════════════════════════════════════════════════════════════════
-
-1. Replace every occurrence of:
-
-   YOUR_GITHUB_USERNAME
-
-   with your real GitHub username.
-
-2. Your GitHub profile repository must have exactly the same name as your
-   GitHub username.
-
-3. Add the contribution snake workflow at:
-
-   .github/workflows/snake.yml
-
-4. Use this workflow:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-
-    runs-on: ubuntu-latest
-
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish contribution snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-5. Run the workflow manually once:
-
-   Repository → Actions → Generate Contribution Snake → Run workflow
-
-6. Replace placeholder GitHub links before publishing.
-
-═══════════════════════════════════════════════════════════════════════════ -->
+=====================================================================
+-->
