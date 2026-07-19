@@ -1,66 +1,64 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                🌸 SANDEEP V — ANIME DEVELOPER PROFILE 🌸             -->
+<!--              🤖 SANDEEP V — AI & MACHINE LEARNING PROFILE            -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:24104F,70:6C2BD9,100:FF69B4&text=Sandeep%20V&fontColor=FFFFFF&fontSize=50&fontAlignY=35&animation=twinkling&desc=コードで未来を創る%20%E2%80%A2%20Creating%20the%20Future%20with%20Code&descSize=17&descAlignY=58&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,70:0F766E,100:22D3EE&text=Sandeep%20V&fontColor=FFFFFF&fontSize=50&fontAlignY=35&animation=twinkling&desc=Java%20Developer%20%7C%20Embedded%20Systems%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&random=false&width=850&height=65&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergraduate+%7C+Java+Developer+%E2%98%95;Building+Embedded+Systems+%26+IoT+Solutions+%F0%9F%94%A7;Turning+Ideas+into+Real-World+Technology+%E2%9A%A1;Training+My+Developer+Arc+Every+Day+%F0%9F%8C%B8" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=900&height=65&lines=Hi%2C+I'm+Sandeep+V+%F0%9F%91%8B;ECE+Undergraduate+%7C+Java+Developer+%E2%98%95;Building+Embedded+and+IoT+Systems+%F0%9F%94%A7;Exploring+AI+and+Machine+Learning+%F0%9F%A4%96;Transforming+Data+into+Intelligent+Solutions+%F0%9F%93%8A" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-C084FC?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/ROLE-JAVA_DEVELOPER-FF69B4?style=for-the-badge&labelColor=161B22&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU-22D3EE?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/ROLE-JAVA_DEVELOPER-22D3EE?style=for-the-badge&labelColor=0F172A&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_%26_MACHINE_LEARNING-A855F7?style=for-the-badge&labelColor=0F172A&logo=probot&logoColor=white"/>
 
 <br/><br/>
 
-> **「小さな一歩でも、前に進めば未来は変わる。」**
-> *Even a small step forward can change the future.*
+> **Building intelligent systems where software, hardware, and data work together.**
 
 </div>
 
 ---
 
-## 🌸 About This Developer
+## 🤖 About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### こんにちは — I'm Sandeep V 👋
+### Hi, I'm Sandeep V 👋
 
 I'm a final-year **Electronics and Communication Engineering undergraduate**, Java developer, and embedded systems enthusiast from Tamil Nadu, India.
 
-My work connects two worlds:
+I enjoy building solutions that combine:
 
-* ☕ Scalable software development with Java
-* 🔧 Hardware-integrated embedded systems
+* ☕ Java and object-oriented programming
+* 🔧 Embedded systems and microcontrollers
 * 🌐 Internet of Things and real-time communication
+* 📊 Data analysis and intelligent decision-making
+* 🤖 Artificial Intelligence and Machine Learning
 * 🧠 Data Structures, Algorithms, and problem solving
-* 🚀 Reliable solutions for real-world challenges
 
-I enjoy transforming ideas into practical systems—from sensors and microcontrollers to Java applications and web-based platforms.
-
-> Every project is another episode in my developer journey.
+My long-term goal is to create reliable systems that connect hardware, software, and intelligent automation.
 
 </td>
-<td width="42%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 ```text
-╭──────────────────────────╮
-│   DEVELOPER PROFILE      │
-├──────────────────────────┤
-│ Name     : Sandeep V     │
-│ Class    : Java Dev      │
-│ Guild    : ECE           │
-│ Region   : Tamil Nadu    │
-│ Level    : Growing ↑     │
-│ Status   : Open to Work  │
-╰──────────────────────────╯
+╭──────────────────────────────╮
+│      DEVELOPER PROFILE       │
+├──────────────────────────────┤
+│ Name      : Sandeep V        │
+│ Role      : Java Developer   │
+│ Domain    : Embedded + IoT   │
+│ Exploring : AI and ML        │
+│ Location  : Tamil Nadu       │
+│ Status    : Open to Work     │
+╰──────────────────────────────╯
 ```
 
 </td>
@@ -69,15 +67,15 @@ I enjoy transforming ideas into practical systems—from sensors and microcontro
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-6C2BD9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Send_A_Message-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
 
 </div>
 
 ---
 
-## ⚔️ My Developer Character
+## 🧠 Developer Intelligence Profile
 
 ```java
 public class SandeepV {
@@ -87,88 +85,106 @@ public class SandeepV {
     private final String degree =
             "B.E. Electronics and Communication Engineering";
 
-    private final String[] abilities = {
-        "Java Development",
+    private final String[] coreSkills = {
+        "Java",
         "Object-Oriented Programming",
         "Embedded C",
         "MySQL",
         "Microcontroller Programming",
         "GPS Module Integration",
         "GSM Alert Systems",
-        "Accelerometer Interfacing",
+        "Sensor Interfacing",
         "Git and GitHub"
     };
 
-    private final String[] currentTrainingArc = {
+    private final String[] exploring = {
+        "Artificial Intelligence",
+        "Machine Learning",
         "Data Structures and Algorithms",
         "REST API Development",
         "System Design Fundamentals",
-        "SAP S/4HANA Fundamentals",
-        "Application Deployment"
+        "SAP S/4HANA"
     };
 
-    public String currentMission() {
-        return "Build reliable systems that connect hardware and software.";
+    public String mission() {
+        return "Build intelligent systems that solve real-world problems.";
     }
 
-    public String developerMotto() {
-        return "Build. Break. Learn. Evolve. Repeat. 🚀";
+    public String mindset() {
+        return "Learn from data. Improve through iteration. Build with purpose.";
     }
 
     public static void main(String[] args) {
         SandeepV developer = new SandeepV();
 
-        while (true) {
-            System.out.println(developer.developerMotto());
-        }
+        System.out.println(developer.mission());
+        System.out.println(developer.mindset());
     }
 }
 ```
 
 ---
 
-## 🌀 Skill Constellation
+## ⚙️ Technology Stack
 
 <div align="center">
 
-### Languages and Databases
+### Programming and Databases
 
-<img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Languages and databases"/>
+<img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" alt="Programming languages and databases"/>
 
 ### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" alt="Development tools"/>
 
-### Currently Unlocking
+### AI and Machine Learning Journey
 
-<img src="https://img.shields.io/badge/Data_Structures-Training_Arc-C084FC?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/REST_APIs-In_Progress-FF69B4?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/System_Design-Learning-22D3EE?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/SAP_S%2F4HANA-Exploring-F59E0B?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-A855F7?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Learning-22D3EE?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Data_Analysis-Beginner-14B8A6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Problem_Solving-Improving-F59E0B?style=for-the-badge&labelColor=0F172A"/>
 
 </div>
 
 ---
 
-## 🗺️ Developer Journey
+## 🧩 Knowledge Architecture
 
 ```text
-Episode 01  ━━━━━━━━  Electronics and Communication Engineering
-                         ↓
-Episode 02  ━━━━━━━━  Embedded C and Microcontroller Programming
-                         ↓
-Episode 03  ━━━━━━━━  GPS, GSM and Sensor Integration
-                         ↓
-Episode 04  ━━━━━━━━  Core Java and Object-Oriented Programming
-                         ↓
-Episode 05  ━━━━━━━━  Real-Time Projects and Innovation Competitions
-                         ↓
-Current Arc ━━━━━━━━  DSA • REST APIs • System Design • Software Roles
+Hardware Layer
+     │
+     ├── Microcontrollers
+     ├── GPS Modules
+     ├── GSM Modules
+     └── Accelerometer Sensors
+     │
+     ▼
+Embedded Systems Layer
+     │
+     ├── Embedded C
+     ├── Sensor Interfacing
+     └── Real-Time Communication
+     │
+     ▼
+Software Layer
+     │
+     ├── Java
+     ├── Object-Oriented Programming
+     ├── MySQL
+     └── REST APIs
+     │
+     ▼
+Intelligence Layer
+     │
+     ├── Artificial Intelligence
+     ├── Machine Learning
+     ├── Data Analysis
+     └── Intelligent Automation
 ```
 
 ---
 
-## 🚀 Featured Missions
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -178,13 +194,13 @@ Current Arc ━━━━━━━━  DSA • REST APIs • System Design • So
 
 **Live Bus Tracking and Booking System**
 
-A full-stack platform designed to improve public transportation through real-time bus location tracking and digital booking.
+A full-stack transportation platform designed to improve the public travel experience using real-time tracking and digital booking.
 
 #### Key Features
 
-* GPS-based live bus tracking
+* GPS-based live bus location tracking
 * Online ticket booking
-* Real-time seat availability
+* Live seat availability
 * User-friendly web interface
 * End-to-end functional testing
 * Hardware and software integration
@@ -193,6 +209,13 @@ A full-stack platform designed to improve public transportation through real-tim
 
 `Java` `GPS Integration` `Web Development` `Real-Time Systems`
 
+#### Future AI Scope
+
+* Passenger demand prediction
+* Intelligent route recommendation
+* Travel-time forecasting
+* Dynamic seat allocation
+
 </td>
 <td width="50%" valign="top">
 
@@ -200,7 +223,7 @@ A full-stack platform designed to improve public transportation through real-tim
 
 **Automatic Emergency Alert System**
 
-An IoT-based safety system that detects vehicle accidents and automatically sends emergency alerts with location details.
+An IoT-based safety system that detects vehicle accidents and automatically sends emergency alerts with location information.
 
 #### Key Features
 
@@ -215,67 +238,133 @@ An IoT-based safety system that detects vehicle accidents and automatically send
 
 `Embedded C` `GPS` `GSM` `Accelerometer` `Microcontroller`
 
+#### Future AI Scope
+
+* Machine-learning-based accident detection
+* Driver behavior analysis
+* Risk-level classification
+* False-alert prediction
+
 </td>
 </tr>
 </table>
 
+---
+
+## 🔬 AI and Machine Learning Interests
+
 <div align="center">
 
-> **Mission objective:** Engineering reliable systems from embedded hardware to scalable software.
+| Area                       | Current Focus                                          |
+| -------------------------- | ------------------------------------------------------ |
+| 🤖 Artificial Intelligence | Understanding intelligent systems and automation       |
+| 📊 Machine Learning        | Learning supervised and unsupervised learning concepts |
+| 🧠 Neural Networks         | Exploring the fundamentals of deep learning            |
+| 📈 Data Analysis           | Learning how data supports better decisions            |
+| 🌐 AI with IoT             | Connecting sensor data with intelligent models         |
+| 🚗 Predictive Systems      | Exploring accident and transportation predictions      |
 
 </div>
 
 ---
 
-## 🏆 Achievements Unlocked
+## 🛠️ Intelligent System Pipeline
+
+```text
+┌──────────────┐
+│ Sensor Input │
+└──────┬───────┘
+       │
+       ▼
+┌─────────────────┐
+│ Data Collection │
+└──────┬──────────┘
+       │
+       ▼
+┌─────────────────┐
+│ Data Processing │
+└──────┬──────────┘
+       │
+       ▼
+┌──────────────────────┐
+│ Machine Learning     │
+│ Model / Decision     │
+└──────┬───────────────┘
+       │
+       ▼
+┌─────────────────┐
+│ Smart Response  │
+└─────────────────┘
+```
+
+---
+
+## 🏆 Certifications and Achievements
 
 <div align="center">
 
-| Rank | Achievement                                           | Organization                                |
-| :--: | ----------------------------------------------------- | ------------------------------------------- |
-|   ☕  | Java Certification                                    | GUVI and HCL — December 2024                |
-|   ☕  | Programming Using Java                                | Infosys Springboard — June 2025             |
-|  🏢  | SAP S/4HANA Fundamentals                              | Currently Pursuing                          |
-|  🥈  | Ranked Among the Top 1,000 Teams                      | Niral Thiruvizha 2.0                        |
-|  📄  | Secure and Decentralized Identity Verification System | Accepted for IEEE journal publication, 2026 |
+| Achievement                                              | Issuer                                      |
+| -------------------------------------------------------- | ------------------------------------------- |
+| ☕ Java Certification                                     | GUVI and HCL — December 2024                |
+| ☕ Programming Using Java                                 | Infosys Springboard — June 2025             |
+| 🏢 SAP S/4HANA Fundamentals                              | Currently Pursuing                          |
+| 🥈 Ranked Among the Top 1,000 Teams                      | Niral Thiruvizha 2.0                        |
+| 📄 Secure and Decentralized Identity Verification System | Accepted for IEEE journal publication, 2026 |
 
 </div>
 
 ---
 
-## 💼 Internship Arc
+## 💼 Internship Experience
 
 ### Infosys Springboard — Java Foundation Virtual Internship
 
-Completed the Java Foundation Virtual Internship with practical exposure to:
+Completed a Java Foundation Virtual Internship with practical exposure to:
 
 * Core Java programming
-* Object-oriented programming principles
-* Classes, objects, inheritance, and polymorphism
+* Object-oriented programming
+* Classes and objects
+* Inheritance and polymorphism
 * Exception handling
-* Fundamental problem-solving techniques
-* Clean and structured program development
+* Basic programming principles
+* Structured problem-solving techniques
 
 ---
 
-## 🎓 Education Timeline
+## 🎓 Education
 
 <div align="center">
 
-| Quest                                             | Institution                        |   Timeline   |   Result   |
-| ------------------------------------------------- | ---------------------------------- | :----------: | :--------: |
-| 🎓 B.E. Electronics and Communication Engineering | VSB Engineering College, Karur     | 2023–Present | CGPA: 7.52 |
-| 📘 Higher Secondary Certificate                   | Vivekanandha Vidyalaya HSS, Muthur |   2021–2023  |    67.8%   |
-| 📗 Secondary School Leaving Certificate           | Vivekanandha Vidyalaya HSS, Muthur |   2020–2021  |    Pass    |
+| Degree                                         | Institution                        |     Year     |    Score   |
+| ---------------------------------------------- | ---------------------------------- | :----------: | :--------: |
+| B.E. Electronics and Communication Engineering | VSB Engineering College, Karur     | 2023–Present | CGPA: 7.52 |
+| Higher Secondary Certificate                   | Vivekanandha Vidyalaya HSS, Muthur |   2021–2023  |    67.8%   |
+| Secondary School Leaving Certificate           | Vivekanandha Vidyalaya HSS, Muthur |   2020–2021  |    Pass    |
 
 </div>
 
 ---
 
-## 📚 Current Training Arc
+## 📚 Current Learning Model
 
 ```yaml
-training_status:
+current_learning:
+
+  artificial_intelligence:
+    topics:
+      - Intelligent systems
+      - Search and decision-making
+      - AI applications
+    status: "Exploring"
+
+  machine_learning:
+    topics:
+      - Supervised learning
+      - Unsupervised learning
+      - Model evaluation
+      - Feature engineering
+    status: "Getting started"
+
   data_structures:
     topics:
       - Arrays
@@ -285,12 +374,12 @@ training_status:
       - Trees
       - Graphs
       - Dynamic Programming
-    status: "Leveling up"
+    status: "Improving"
 
   backend_development:
     topics:
+      - Java architecture
       - REST APIs
-      - Java application architecture
       - Database integration
     status: "In progress"
 
@@ -301,50 +390,45 @@ training_status:
       - Database fundamentals
     status: "Learning"
 
-  enterprise_technology:
-    topics:
-      - SAP S/4HANA Fundamentals
-    status: "Exploring"
-
   deployment:
     topics:
       - GitHub Actions
       - Hosting fundamentals
       - CI/CD basics
-    status: "Next mission"
+    status: "Next objective"
 ```
 
 ---
 
-## 📊 Developer Power Level
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF69B4&text_color=C9D1D9&ring_color=22D3EE" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A855F7&text_color=E2E8F0&ring_color=14B8A6" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=C084FC&fire=FF69B4&currStreakLabel=22D3EE&sideLabels=C084FC&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=020617&ring=22D3EE&fire=A855F7&currStreakLabel=14B8A6&sideLabels=22D3EE&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" alt="Most used languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C2BD9&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=FF69B4&labelColor=161B22&logo=github&label=Followers" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=A855F7&labelColor=0F172A&logo=github&label=Followers" alt="GitHub followers"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=22D3EE&labelColor=161B22&logo=github&label=Total%20Stars" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=14B8A6&labelColor=0F172A&logo=github&label=Total%20Stars" alt="GitHub stars"/>
 
 </div>
 
 ---
 
-## 🎴 Contribution Story
+## 📈 Contribution Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C084FC&line=FF69B4&point=22D3EE&area=true&hide_border=true&custom_title=Sandeep's%20Contribution%20Journey" width="98%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=22D3EE&line=A855F7&point=14B8A6&area=true&hide_border=true&custom_title=Sandeep's%20Development%20Activity" width="98%" alt="Contribution activity graph"/>
 
 <br/>
 
@@ -354,51 +438,49 @@ training_status:
 
 ---
 
-## 🌸 Random Developer Wisdom
+## 💡 Developer Philosophy
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
 
 <br/>
 
 ```text
-A developer does not become stronger by avoiding bugs.
-
-A developer becomes stronger by debugging,
-understanding, rebuilding, and trying again.
+Data creates insight.
+Algorithms create intelligence.
+Engineering transforms intelligence into impact.
 ```
 
-### 「失敗は終わりではない。成長の始まりだ。」
-
-*Failure is not the end. It is the beginning of growth.*
+### Build systems that learn, adapt, and solve meaningful problems.
 
 </div>
 
 ---
 
-## 🤝 Join My Developer Journey
+## 🎯 Career Objectives
 
 <div align="center">
 
-I'm interested in opportunities involving:
+I'm actively interested in opportunities involving:
 
 `Java Development` • `Software Engineering` • `Embedded Systems`
-`Internet of Things` • `Backend Development` • `Graduate Roles`
+`Internet of Things` • `Artificial Intelligence` • `Machine Learning`
+`Backend Development` • `Graduate Software Roles`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6C2BD9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandeep-v)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssandeep79154@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 <br/><br/>
 
-### 🌸 Thanks for visiting my profile 🌸
+### 🤖 Thanks for visiting my profile
 
-**Follow the repository to watch the next episode of my developer journey.**
+**Building today. Learning continuously. Creating intelligent systems for tomorrow.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,35:24104F,70:6C2BD9,100:FF69B4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,35:0F172A,70:0F766E,100:22D3EE&section=footer"/>
 
 </div>
 
@@ -412,13 +494,8 @@ I'm interested in opportunities involving:
 
    with your real GitHub username.
 
-2. Your profile repository must have exactly the same name as your
+2. Your GitHub profile repository must have exactly the same name as your
    GitHub username.
-
-   Example:
-
-   Username: sandeepv
-   Repository: github.com/sandeepv/sandeepv
 
 3. Add the contribution snake workflow at:
 
@@ -468,7 +545,6 @@ jobs:
 
    Repository → Actions → Generate Contribution Snake → Run workflow
 
-6. Some external statistics services can occasionally experience downtime.
-   This does not mean your README code is broken.
+6. Replace placeholder GitHub links before publishing.
 
 ═══════════════════════════════════════════════════════════════════════════ -->
