@@ -50,7 +50,7 @@ public class Sandeep {
     String location    = "Erode, Tamil Nadu, India";
     String degree      = "B.E. Electronics & Communication Engineering";
     String college     = "VSB Engineering College, Karur";
-    double cgpa        = 7.52;
+    double cgpa        = 7.82;
 
     String[] stack = {
         "Java", "Embedded C", "MySQL",
